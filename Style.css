@@ -36,12 +36,12 @@ h2 {
 }
 
 .project {
-  margin-bottom: 20px
+    margin-bottom: 20px;
 }
 
 .project h3 {
-  margin: 0 0 10px
-  color: #333
+    margin: 0 0 10px;
+    color: #333;
 }
 
 ul {
